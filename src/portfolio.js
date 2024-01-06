@@ -7,7 +7,7 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Gabriel',
-  role: 'Software developer',
+  role: 'Software Developer',
   description:
     'Curious, enthusiast and detail focused software developer. I enjoy working with others to tackle challenges and deliver the best outcome possible.',
   resume: 'https://example.com',
