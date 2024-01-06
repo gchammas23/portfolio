@@ -21,28 +21,25 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Audio Library',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'This repository contains several APIs for managing an audio library',
+    stack: ['JavaScript', 'NodeJS', 'ExpressJS', 'MongoDB', 'JWT', 'Joi Validation'],
+    sourceCode: `${about.social.github}/AudioLibrary`,
   },
   {
-    name: 'Project 2',
+    name: 'EggTimer',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'EggTimer is a macOS application that helps you cook your eggs to your preferences.',
+    stack: ['Swift', 'UIKit'],
+    sourceCode: `${about.social.github}/EggTimer`,
   },
   {
-    name: 'Project 3',
+    name: 'BMI-App',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'This is a BMI calculator app. Create an account, log in and calculate your bmi and keep track of it through the app.',
+    stack: ['CSS', 'JavaScript', 'React', 'MongoDB', 'ExpressJS', 'NodeJS', 'Axios', 'Bootstrap', ],
+    sourceCode: `${about.social.github}/Bmi-app`,
   },
 ]
 
@@ -55,7 +52,7 @@ const skills = [
   'Python',
   'NodeJS',
   'Git',
-  'Jest',
+  'ExpressJS',
   'MongoDB',
   'NestJS',
   'Swift'
