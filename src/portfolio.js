@@ -10,7 +10,7 @@ const about = {
   role: 'Software Developer',
   description:
     'As a curious and detail-focused software developer, I thrive on collaborating with others to tackle challenges and deliver optimal outcomes. This portfolio showcases a selection of projects that reflect my evolving knowledge and skills. Thank you for taking the time to explore my work! 😊',
-  resume: 'https://shorturl.at/Ui9rl',
+  resume: 'https://shorturl.at/Tyik0',
   social: {
     linkedin: 'https://linkedin.com/in/gabriel-chammas/',
     github: 'https://github.com/gchammas23',
