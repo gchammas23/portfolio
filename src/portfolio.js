@@ -45,7 +45,7 @@ const projects = [
     name: 'BMI-App',
     description:
       'This is a BMI calculator app. Create an account, log in and calculate your bmi and keep track of it through the app.',
-    stack: ['CSS', 'JavaScript', 'React', 'MongoDB', 'ExpressJS', 'NodeJS', 'Axios', 'Bootstrap', ],
+    stack: ['CSS', 'JavaScript', 'React', 'MongoDB', 'ExpressJS', 'NodeJS', 'Axios', 'Bootstrap'],
     sourceCode: `${about.social.github}/Bmi-app`,
   },
 ]
@@ -64,11 +64,13 @@ const skills = [
   'NestJS',
   'Swift',
   'Java',
+  'PostgreSQL',
+  'CSS'
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'gabrielchammas23@gmail.com',
+  email: 'gabriel@chammas.me',
 }
 
 export { header, about, projects, skills, contact }
