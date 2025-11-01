@@ -35,6 +35,13 @@ const projects = [
     sourceCode: `${about.social.github}/AudioLibrary`,
   },
   {
+    name: 'Grocery API',
+    description:
+      'This is another backend repository containing multiple APIs for online grocery shopping with authentication',
+    stack: ['NodeJS', 'ExpressJS', 'JWT', 'Typescript', 'Python', 'PostgreSQL', 'KnexJS', 'Supertest'],
+    sourceCode: `${about.social.github}/grocery-api`,
+  },
+  {
     name: 'BMI-App',
     description:
       'This is a BMI calculator app. Create an account, log in and calculate your bmi and keep track of it through the app.',
